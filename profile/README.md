@@ -1,4 +1,4 @@
-#About Sveltese
+# Sveltese
 
 Sveltese is a collection of tools and startup packages designed for the SvelteKit framework, aiming to streamline development with its expressive and efficient syntax. Our mission is to make the development process enjoyable and innovative, empowering developers to create robust and scalable applications with ease. Sveltese simplifies common tasks and enhances the SvelteKit experience by offering:
 

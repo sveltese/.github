@@ -1,5 +1,5 @@
-![Alt text](logo.svg)
-<img src="logo.svg">
+![Sveltese Logo](logo.svg)
+<img src="./profile/logo.svg">
 
 # Sveltese
 

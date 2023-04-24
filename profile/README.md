@@ -1,5 +1,6 @@
-![Sveltese Logo](logo.svg)
-<img src="./profile/logo.svg">
+<p align="center" width="100%">
+    <img width="33%" src="./profile/logo.svg"> 
+</p>
 
 # Sveltese
 

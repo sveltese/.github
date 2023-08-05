@@ -41,8 +41,31 @@ npm db:init
 ```
 This will get prisma running.  It will create a migration table, setup the tables needed for lucia auth and create zod models to validate against.
 
+This will also create a test user.
+
+```
+npm dev
+```
+
+That's all there is to it.  You can build your next great idea with a solid authentication system prebuilt in sveltekit.  p
 
 
+
+## The Future
+
+For now we are using TailwindCSS for styles.  This allows for MeltUI, DaisyUI, SkeletonUI and all the others.  There is no clear UI winner yet. \
+
+The dashboard is where you can go with the Logged in state.  All you can do there.. is logout and there is no UI.  I'm thinking to add a user profile section there so people can upload avatars or change their email and so on.  
+
+As for database, I am working on on sqlite first.  It would make the starter easier without having to know psql and run it locally.
+
+Docs would be nice, but this will have to do for now.  
+
+Github Login, Google Login, LinkedIn Login, Facebook Login, Twitter Login, likely in that order.   
+
+Drop me a note if you have any good ideas. 
+
+Throw me some code if your really feeling it.  :)
 
 
 

@@ -58,7 +58,7 @@ That's all there is to it.  You can build your next great idea with a solid auth
 
 ## The Future
 
-For now we are using TailwindCSS for styles.  This allows for MeltUI, DaisyUI, SkeletonUI and all the others.  There is no clear UI winner yet. \
+For now we are using TailwindCSS for styles.  This allows for MeltUI, DaisyUI, SkeletonUI and all the others.  
 
 The dashboard is where you can go with the Logged in state.  All you can do there.. is logout and there is no UI.  I'm thinking to add a user profile section there so people can upload avatars or change their email and so on.  
 

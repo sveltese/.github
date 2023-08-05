@@ -13,6 +13,12 @@ Svelte SE is a collection of tools and startup packages designed for the SvelteK
 
 Sveltese is user-friendly, adaptable, and equips developers with the resources needed to build and maintain large-scale applications.
 
+
+## Authentication
+
+Svelte SE uses is using Prisma, Lucia and Postgres, as well as nodemailer and mailpit, to create a drop in authentication system.
+
+
 ## Installation
 
 ```
@@ -67,10 +73,7 @@ Drop me a note if you have any good ideas.
 
 Throw me some code if your really feeling it.  :)
 
+P.S. for the record I really use PNPM.
 
 
-
-## Authentication
-
-Svelte SE uses is using Prisma, Lucia and Postgres, as well as nodemailer and mailpit, to create a drop in authentication system.
 

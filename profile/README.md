@@ -4,12 +4,11 @@
 
 # Svelte SE
 
-Svelte SE is a collection of tools and startup packages designed for the SvelteKit framework, aiming to streamline development. Our mission is to make the development process enjoyable and innovative, empowering developers to create robust and scalable applications with ease. Sveltes SE simplifies common tasks and enhances the SvelteKit experience by offering:
+Svelte SE is a collection of tools and startup packages designed for the SvelteKit framework, aiming to streamline development. The mission is to make the development process enjoyable and innovative, empowering developers to create robust and scalable applications with ease. Sveltes SE simplifies common tasks and enhances the SvelteKit experience by offering:
 
-- Pre-configured, modular starter templates.
+- Preconfigured Authentication Code
 - Efficient state management solutions.
 - Out-of-the-box integrations with popular backend services.
-- Comprehensive UI component libraries. (coming soon)
 
 Sveltese is user-friendly, adaptable, and equips developers with the resources needed to build and maintain large-scale applications.
 
@@ -71,9 +70,9 @@ Github Login, Google Login, LinkedIn Login, Facebook Login, Twitter Login, likel
 
 Drop me a note if you have any good ideas. 
 
-Throw me some code if your really feeling it.  :)
+Throw me some code if you're really feeling it.  :)
 
-P.S. for the record I really use PNPM.
+P.S. for the record I really use pnpm.
 
 
 

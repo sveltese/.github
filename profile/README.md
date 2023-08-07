@@ -26,7 +26,7 @@ npm create sveltese@latest app_name
 If you are already familiar with SvelteKit you will recognize the CLI.
 
 ```
-create-svelte version 0.0.2
+create-svelte version 0.1.0
 
 ┌  Welcome to SvelteKit!
 │
